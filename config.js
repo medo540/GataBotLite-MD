@@ -11,11 +11,11 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
 
 global.owner = [
-  ['201557241739', '𝘿 َِ𝘼 َِ𝙍 َِ𝙆 ِ۬𝙓 َ𝘽 َ𝙊 َْ𝙏 𖤐 ↯', true],
-  ['201129491146', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
-  ['201129491146', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],
-  ['201129491146'], ['201129491146'], ['201129491146'], ['201129491146'], ['201129491146'], ['201129491146'], ['201129491146'], ['201129491146'],
-  ['201129491146']]
+  ['201558762032', '𝘽 َِ𝙇 َِ𝘼 َِ𝘾 ِ۬𝙆 َ𝘽 َ𝙊 َْ𝙏', true],
+  ['201150137726', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
+  ['201150137726', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],
+  ['201150137726'], ['201150137726'], ['201150137726'], ['201150137726'], ['201150137726'], ['201150137726'], ['201150137726'], ['201150137726'],
+  ['201150137726']]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -92,8 +92,8 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝘿 َِ𝘼 َِ𝙍 َِ𝙆 ِ۬𝙓 َ𝘽 َ𝙊 َْ𝙏 𖤐 ↯'
-global.author = '+201557241739'
+global.packname = '𝘽 َِ𝙇 َِ𝘼 َِ𝘾 ِ۬𝙆 َ𝘽 َ𝙊 َْ𝙏'
+global.author = '+201558762032'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
@@ -112,34 +112,34 @@ global.country = '' //agrega tú país ejemplo: 🇪🇨
 global.vs = '1.0.1'
 global.vsJB = '3.0'
 
-global.gt = '𝘿 َِ𝘼 َِ𝙍 َِ𝙆 ِ۬𝙓 َ𝘽 َ𝙊 َْ𝙏 𖤐 ↯'
+global.gt = '𝘽 َِ𝙇 َِ𝘼 َِ𝘾 ِ۬𝙆 َ𝘽 َ𝙊 َْ𝙏'
 global.yt = 'https://youtube.com/'
 global.yt2 = 'https://www.youtube.com'
-global.ig = 'https://www.instagram.com/r8_2z'
+global.ig = 'https://www.instagram.com/'
 global.md = 'https://github.com'
-global.fb = 'https://www.facebook.com'
+global.fb = 'https://www.facebook.com/profile.php?id=100080255904509'
 
-global.nna = 'https://chat.whatsapp.com/KHfaRkUhAHcAfEaKsXqxem' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/KHfaRkUhAHcAfEaKsXqxem' //Help
-global.nn = 'https://chat.whatsapp.com/KHfaRkUhAHcAfEaKsXqxem' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/KHfaRkUhAHcAfEaKsXqxem' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/KHfaRkUhAHcAfEaKsXqxem' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/KHfaRkUhAHcAfEaKsXqxem' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/KHfaRkUhAHcAfEaKsXqxem' //Grupo 5
-global.nnnttt2 = 'https://chat.whatsapp.com/KHfaRkUhAHcAfEaKsXqxem' //Grupo 6 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/KHfaRkUhAHcAfEaKsXqxem' //Grupo 7 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/KHfaRkUhAHcAfEaKsXqxem' //Grupo 8 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/KHfaRkUhAHcAfEaKsXqxem' //Grupo 9 COL
+global.nna = 'https://chat.whatsapp.com/JxdYrkzkqzSGSfGSHxjy4S' //UPDATE GATABOT
+global.nna2 = 'https://chat.whatsapp.com/JxdYrkzkqzSGSfGSHxjy4S' //Help
+global.nn = 'https://chat.whatsapp.com/JxdYrkzkqzSGSfGSHxjy4S' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/JxdYrkzkqzSGSfGSHxjy4S' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/JxdYrkzkqzSGSfGSHxjy4S' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/JxdYrkzkqzSGSfGSHxjy4S' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/JxdYrkzkqzSGSfGSHxjy4S' //Grupo 5
+global.nnnttt2 = 'https://chat.whatsapp.com/JxdYrkzkqzSGSfGSHxjy4S' //Grupo 6 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/JxdYrkzkqzSGSfGSHxjy4S' //Grupo 7 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/JxdYrkzkqzSGSfGSHxjy4S' //Grupo 8 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/JxdYrkzkqzSGSfGSHxjy4S' //Grupo 9 COL
 global.paypal = 'https://paypal.me/mxd7xx'
-global.asistencia = 'Wa.me/201129491146' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/201150137726' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝘿 َِ𝘼 َِ𝙍 َِ𝙆 ِ۬𝙓 َ𝘽 َ𝙊 َْ𝙏 𖤐 ↯ | *حقوق*'
-global.igfg = '𝘿 َِ𝘼 َِ𝙍 َِ𝙆 ِ۬𝙓 َ𝘽 َ𝙊 َْ𝙏 𖤐 ↯'
+global.wm = '𝘽 َِ𝙇 َِ𝘼 َِ𝘾 ِ۬𝙆 َ𝘽 َ𝙊 َْ𝙏 | *حقوق*'
+global.igfg = '𝘽 َِ𝙇 َِ𝘼 َِ𝘾 ِ۬𝙆 َ𝘽 َ𝙊 َْ𝙏'
 //global.wait = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
 
@@ -167,36 +167,36 @@ global.imagen13 = fs.readFileSync('./media/menus/img12.jpg')
 
 //━━━━━━━━━━━━━━ img ━━━━━━━━━
 
-global.img = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
-global.img2 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
+global.img = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
+global.img2 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
 
-global.img3 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg' //ft rectangular
+global.img3 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg' //ft rectangular
 
-//global.img3 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg' //prem   //no
-//global.img4 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg' //prem   //no
+//global.img3 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg' //prem   //no
+//global.img4 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg' //prem   //no
 
-global.img5 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
-global.img6 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
-global.img7 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
-global.img8 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
-global.img9 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
+global.img5 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
+global.img6 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
+global.img7 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
+global.img8 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
+global.img9 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
 
-global.img10 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
-global.img11 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
-global.img12 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
-global.img13 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
-global.img14 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
-global.img15 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
+global.img10 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
+global.img11 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
+global.img12 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
+global.img13 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
+global.img14 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
+global.img15 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
 
-//global.img16 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg' //+18   //no
+//global.img16 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg' //+18   //no
 
-global.img17 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
-global.img18 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
-global.img19 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
-global.img20 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
-global.img21 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg'
+global.img17 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
+global.img18 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
+global.img19 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
+global.img20 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
+global.img21 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg'
 
-global.img21 = 'https://telegra.ph/file/3b5dd8eaefa86bde71429.jpg' //paypal
+global.img21 = 'https://telegra.ph/file/951712238909e67aedbfa.jpg' //paypal
 
 global.welgata = [ig, yt2, yt2, ig, md, ig, yt, paypal, yt2, yt2, ig, fb]
 global.redesMenu = [nna, nn, nnn, nnnt, nnntt, nnnttt, nnnttt2, nnnttt3, nnnttt4, nnnttt5, md, ig, paypal, yt, asistencia, fb]
